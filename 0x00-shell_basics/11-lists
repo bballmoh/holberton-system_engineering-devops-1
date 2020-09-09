@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a; ls -a ..; pwd /tmp
+ls -la ; ls -la .. ; pwd /tmp
